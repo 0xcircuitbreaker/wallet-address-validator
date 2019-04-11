@@ -50,6 +50,7 @@ bower install wallet-address-validator
 * Bitcoin/BTC, `'bitcoin'` or `'BTC'`
 * BitcoinMonster/MON, ``bitcoinmonster'' or `'MON'`
 * Rupee-Evolution/RUPEE, `'rupeeevolution'` or `'RUPEE'`
+*DraviteFlex, `'draviteflex'` or `' DRVF'`
 * Litecoin/LTC, `'litecoin'` or `'LTC'`
 * Denarius/DNR, `'denarius'` or `'DNR'`
 * Peercoin/PPCoin/PPC, `'peercoin'` or `'PPC'`

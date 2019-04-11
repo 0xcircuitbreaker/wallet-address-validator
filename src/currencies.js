@@ -13,6 +13,10 @@
           symbol: 'rupee',
           addressTypes: {prod: ['60', '15'], testnet: ['17', '18']}
         },{
+          name: 'draviteflex',
+          symbol: 'drvf',
+          addressTypes: {prod: ['31', '16'], testnet: ['83', '18']}
+        },{
             name: 'litecoin',
             symbol: 'ltc',
             addressTypes: {prod: ['30', '05'], testnet: ['6f', 'c4']}
@@ -52,10 +56,6 @@
             name: 'auroracoin',
             symbol: 'aur',
             addressTypes: {prod: ['17', '05'], testnet: ['6f', 'c4']}
-        },{
-            name: 'namecoin',
-            symbol: 'nmc',
-            addressTypes: {prod: ['34'], testnet: []}
         }];
 
 
