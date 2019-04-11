@@ -4,8 +4,9 @@
   "keywords": [
     "bitcoin",
     "bitcoinmonster",
+    "rupeeevolution",
     "litecoin",
-	"denarius",
+	  "denarius",
     "dogecoin",
     "altcoin",
     "address",
@@ -15,7 +16,7 @@
     "browser",
     "nodejs"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "CircuitBreaker88",
   "homepage": "https://github.com/CircuitBreaker88/wallet-address-validator",
   "license": "MIT",

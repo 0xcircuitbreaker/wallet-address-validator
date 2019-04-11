@@ -9,6 +9,10 @@
             symbol: 'mon',
             addressTypes: {prod: ['50', '10'], testnet: ['112', '20']}
         },{
+          name: 'rupeeevolution',
+          symbol: 'rupee',
+          addressTypes: {prod: ['60', '15'], testnet: ['17', '18']}
+        },{
             name: 'litecoin',
             symbol: 'ltc',
             addressTypes: {prod: ['30', '05'], testnet: ['6f', 'c4']}
