@@ -7,15 +7,15 @@
         },{
             name: 'bitcoinmonster',
             symbol: 'mon',
-            addressTypes: {prod: ['50', '10'], testnet: ['112', '20']}
+            addressTypes: {prod: ['32', '0a'], testnet: ['70', '14']}
         },{
           name: 'rupeeevolution',
           symbol: 'rupee',
-          addressTypes: {prod: ['60', '15'], testnet: ['17', '18']}
+          addressTypes: {prod: ['3c', '0f'], testnet: ['17', '18']}
         },{
           name: 'draviteflex',
           symbol: 'drvf',
-          addressTypes: {prod: ['31', '16'], testnet: ['83', '18']}
+          addressTypes: {prod: ['1f', '10'], testnet: ['53', '12']}
         },{
             name: 'litecoin',
             symbol: 'ltc',
