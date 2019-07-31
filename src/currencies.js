@@ -33,6 +33,10 @@
             symbol: 'dnr',
             addressTypes: {prod: ['1e', '5a'], testnet: ['12', '74']}
         },{
+          name: 'NXTLVLGreen',
+          symbol: 'NXTG',
+          addressTypes: {prod: ['3F', '12'] testnet: ['8C', '13']}
+        },{
             name: 'beavercoin',
             symbol: 'bvc',
             addressTypes: {prod: ['19', '05'], testnet: ['6f', 'c4']}
