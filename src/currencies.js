@@ -35,7 +35,7 @@
         },{
           name: 'NXTLVLGreen',
           symbol: 'NXTG',
-          addressTypes: {prod: ['3F', '12'] testnet: ['8C', '13']}
+          addressTypes: {prod: ['3F', '12'], testnet: ['8C', '13']}
         },{
             name: 'beavercoin',
             symbol: 'bvc',
