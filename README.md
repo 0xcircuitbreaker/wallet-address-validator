@@ -59,6 +59,7 @@ bower install wallet-address-validator
 * Freicoin/FRC, `'freicoin'` or `'FRC'`
 * Protoshares/PTS, `'protoshares'` or `'PTS'`
 * Megacoin/MEC, `'megacoin'` or `'MEC'`
+* MoneyByte/MON, `'moneybyte'` or `'MON'`
 * Primecoin/XPM, `'primecoin'` or `'XPM'`
 * Auroracoin/AUR, `'auroracoin'` or `'AUR'`
 * Namecoin/NMC, `'namecoin'` or `'NMC'`

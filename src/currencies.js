@@ -33,6 +33,11 @@
             symbol: 'dnr',
             addressTypes: {prod: ['1e', '5a'], testnet: ['12', '74']}
         },{
+          name: 'moneybyte',
+          symbol: "mon",
+          addressTypes: {prod: ['33', '27'], testnet: ['1c', '26']}
+        },
+        {
           name: 'nxtlvl',
           symbol: 'nxtl',
           addressTypes: {prod: ['3F', '12'], testnet: ['8C', '13']}
