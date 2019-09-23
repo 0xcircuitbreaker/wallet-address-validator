@@ -36,8 +36,11 @@
           name: 'moneybyte',
           symbol: "mon",
           addressTypes: {prod: ['33', '27'], testnet: ['1c', '26']}
-        },
-        {
+        },{
+          name:  'konjungate',
+          symbol: "konj",
+          addressTypes: {prod: ['2E', '27'], testnet: ['1C', '26']}
+        },{
           name: 'nxtlvl',
           symbol: 'nxtl',
           addressTypes: {prod: ['3F', '12'], testnet: ['8C', '13']}
