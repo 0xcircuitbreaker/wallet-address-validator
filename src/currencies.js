@@ -39,7 +39,7 @@
         },{
           name:  'konjungate',
           symbol: "konj",
-          addressTypes: {prod: ['2E', '27'], testnet: ['1c', '26']}
+          addressTypes: {prod: ['2e', '27'], testnet: ['1c', '26']}
         },{
           name: 'nxtlvl',
           symbol: 'nxtl',
