@@ -5,6 +5,10 @@
             symbol: 'btc',
             addressTypes: {prod: ['00', '05'], testnet: ['6f', 'c4']}
         },{
+          name: 'elunium',
+          symbol: 'elunium',
+          addressTypes: {prod: ['21', '2e'], testnet: ['5c', '6c']}
+        },{
           name: 'fedoragold',
           symbol: 'fed',
           addressTypes: {prod: ['7F', ''], testnet: ['7F', '']}
