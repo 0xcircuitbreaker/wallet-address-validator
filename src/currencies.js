@@ -5,9 +5,9 @@
             symbol: 'btc',
             addressTypes: {prod: ['00', '05'], testnet: ['6f', 'c4']}
         },{
-            name: 'bitcoinmonster',
-            symbol: 'mon',
-            addressTypes: {prod: ['32', '0a'], testnet: ['70', '14']}
+          name: 'fedoragold',
+          symbol: 'fed',
+          addressTypes: {prod: ['7F', ''], testnet: ['7F', '']}
         },{
           name: 'rupeeevolution',
           symbol: 'rupee',
@@ -33,6 +33,10 @@
             symbol: 'dnr',
             addressTypes: {prod: ['1e', '5a'], testnet: ['12', '74']}
         },{
+          name: 'innova',
+          symbol: 'inn',
+          addressTypes: {prod: ['66', '89'], testnet: ['41', '4b']}
+        },{
           name: 'moneybyte',
           symbol: "mon",
           addressTypes: {prod: ['33', '27'], testnet: ['1c', '26']}
@@ -40,10 +44,6 @@
           name:  'konjungate',
           symbol: 'konj',
           addressTypes: {prod: ['2e', '27'], testnet: ['1c', '26']}
-        },{
-          name: 'nxtlvl',
-          symbol: 'nxtl',
-          addressTypes: {prod: ['3F', '12'], testnet: ['8C', '13']}
         },{
             name: 'beavercoin',
             symbol: 'bvc',
