@@ -5,6 +5,10 @@
             symbol: 'btc',
             addressTypes: {prod: ['00', '05'], testnet: ['6f', 'c4']}
         },{
+          name: 'spectrecoin',
+          symbol: 'xspec',
+          addressTypes: {prod: ['3f', 'b3'], testnet: ['7f', 'ff']}
+        },{
           name: 'elunium',
           symbol: 'elunium',
           addressTypes: {prod: ['21', '2e'], testnet: ['5c', '6c']}
