@@ -9,6 +9,10 @@
           symbol: 'xspec',
           addressTypes: {prod: ['3f', 'b3'], testnet: ['7f', 'ff']}
         },{
+          name: 'nutucoin',
+          symbol: 'ntu',
+          addressTypes: {prod: ['35', '9b'], testnet: ['70', '7d']}
+        },{
           name: 'elunium',
           symbol: 'elunium',
           addressTypes: {prod: ['21', '2e'], testnet: ['5c', '6c']}
